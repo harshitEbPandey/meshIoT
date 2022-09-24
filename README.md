@@ -1,5 +1,7 @@
 # meshIoT
 A Light-weight Multi-tenant Distributed IoT platform using idle devices on a mesh network
+Submitted in partial fulfillment of the requirements for the award of the degree of Bachelor of Technology - Computer Science and Engineering
+MNNIT Allahabad, 2018
 
 Presenting a Light-weight Multi-tenant Distributed IoT platform using idle devices on a mesh network. The project deals with the problem of sending sensor data to an off-site cloud, causing higher round trip time in each processing cycle. This project proposes a fully automatic approach that utilizes idle nodes in the local network for the required computations and hence reducing the time taken to a great extent.
 
